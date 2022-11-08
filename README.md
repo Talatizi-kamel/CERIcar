@@ -19,3 +19,5 @@ param2 par exemple) et affichez ce message: “j’ai compris <VALEUR PARAM1> ,
 super : <VALEUR PARAM2>”
 d. Dans le layout, j ai ajouteé un bandeau de notification permettant d'afficher un
 message (de notification ou d'erreur) issu de l'exécution d'une action quelconque.
+
+\***\*\*\*\*\*\***deuxieme étape\***\*\*\*\*\*\***

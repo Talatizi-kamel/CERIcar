@@ -1,0 +1,1 @@
+<H2>j’ai compris <?php echo $context->par1  ?> , super : <?php echo $context->par2  ?> </H2>
