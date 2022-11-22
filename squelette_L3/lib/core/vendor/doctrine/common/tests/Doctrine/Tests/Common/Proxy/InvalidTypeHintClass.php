@@ -1,16 +1,1 @@
-<?php
-
-namespace Doctrine\Tests\Common\Proxy;
-
-/**
- * Test asset class
- */
-class InvalidTypeHintClass
-{
-    /**
-     * @param InvalidHint (non existing class type hint)
-     */
-    public function invalidTypeHintMethod(InvalidHint $foo)
-    {
-    }
-}
+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

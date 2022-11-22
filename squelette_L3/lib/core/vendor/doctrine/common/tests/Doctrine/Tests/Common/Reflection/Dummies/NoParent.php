@@ -1,8 +1,1 @@
-<?php
-
-namespace Doctrine\Tests\Common\Reflection\Dummies;
-
-class NoParent
-{
-    public $test;
-}
+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

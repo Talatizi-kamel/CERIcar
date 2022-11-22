@@ -1,12 +1,1 @@
-<?php
-
-use Symfony\Component\Console\Input\InputInterface;
-use Symfony\Component\Console\Output\OutputInterface;
-use Symfony\Component\Console\Style\SymfonyStyle;
-
-//Ensure has single blank line between two titles
-return function (InputInterface $input, OutputInterface $output) {
-    $output = new SymfonyStyle($input, $output);
-    $output->title('First title');
-    $output->title('Second title');
-};
+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

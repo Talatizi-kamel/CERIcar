@@ -1,1 +1,1 @@
-<?php echo $context->error ;?>
+<h2> <center> <?php echo $context->error ;?></center> </h2>

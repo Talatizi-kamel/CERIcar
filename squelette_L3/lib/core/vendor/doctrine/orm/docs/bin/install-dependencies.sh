@@ -1,4 +1,1 @@
-#!/bin/bash
-sudo apt-get install python25 python25-dev texlive-full rubber
-sudo easy_install pygments
-sudo easy_install sphinx
+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

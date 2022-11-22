@@ -1,9 +1,1 @@
-<?php
-
-namespace Doctrine\Tests\Common\Reflection;
-
-use Doctrine\Tests\Common\Reflection\Dummies\NoParent as Test;
-
-class UseParent extends Test
-{
-}
+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

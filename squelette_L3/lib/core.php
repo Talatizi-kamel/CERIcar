@@ -1,9 +1,1 @@
-<?php
-
-require_once "core/vendor/autoload.php";
-use Doctrine\ORM\Tools\Setup;
-use Doctrine\ORM\EntityManager;
-
-require_once 'core/context.class.php' ;
-require_once 'core/dbconnection.class.php' ;
-
+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

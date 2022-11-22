@@ -1,6 +1,1 @@
-# Doctrine Inflector
-
-Doctrine Inflector is a small library that can perform string manipulations
-with regard to upper-/lowercase and singular/plural forms of words.
-
-[![Build Status](https://travis-ci.org/doctrine/inflector.svg?branch=master)](https://travis-ci.org/doctrine/inflector)
+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

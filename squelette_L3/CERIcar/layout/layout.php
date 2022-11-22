@@ -5,22 +5,27 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
   <title>
-    CERIcar
+    <?php echo "$action" ?>
   </title>
 
 </head>
 
-<body>
-  <h2>Super c'est Mon appli ! </h2>
+<body style="background-color:white; padding:0px;margin:0px;">
+
+  <h2> Super c'est ton appli ! </h2>
   <?php if ($context->getSessionAttribute('user_id')) : ?>
     <?php echo $context->getSessionAttribute('user_id') . " est connecte"; ?>
   <?php endif; ?>
+  <?php
+  $view = $context->executeAction($action, $_REQUEST);
+  ?>
+
 
   <div id="page">
     <?php if ($context->error) : ?>
       <center>
         <div id="flash_error" class="error" style="background-color: red;">
-          <?php echo " attention une erreur est survenue  !!!!!" ?>
+          <?php echo " attention une erreur est survenue error !!!!!" ?>
         </div>
       </center>
     <?php else : ?>

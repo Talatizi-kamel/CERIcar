@@ -1,14 +1,1 @@
-<?php
-
-namespace Doctrine\Tests\Common\Reflection;
-
-use Doctrine\Common\Annotations\Annotation;
-
-/**
- * @Annotation(
- *   key = "value"
- * )
- */
-class ExampleAnnotationClass {
-
-} 
+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

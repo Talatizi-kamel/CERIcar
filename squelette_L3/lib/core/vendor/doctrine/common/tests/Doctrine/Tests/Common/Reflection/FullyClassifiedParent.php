@@ -1,7 +1,1 @@
-<?php
-
-namespace Doctrine\Tests\Common\Reflection;
-
-class FullyClassifiedParent extends \Doctrine\Tests\Common\Reflection\NoParent
-{
-}
+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

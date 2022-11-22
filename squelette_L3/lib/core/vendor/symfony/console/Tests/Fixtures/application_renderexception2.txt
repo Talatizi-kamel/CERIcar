@@ -1,11 +1,1 @@
-
-
-                                      
-  [InvalidArgumentException]          
-  The "--foo" option does not exist.  
-                                      
-
-
-list [--xml] [--raw] [--format FORMAT] [--] [<namespace>]
-
-
+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

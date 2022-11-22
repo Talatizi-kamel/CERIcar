@@ -1,9 +1,1 @@
-**option_name:**
-
-* Name: `--option_name`
-* Shortcut: `-o`
-* Accept value: yes
-* Is value required: no
-* Is multiple: yes
-* Description: option description
-* Default: `array ()`
+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

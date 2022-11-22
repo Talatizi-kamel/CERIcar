@@ -1,8 +1,1 @@
-# Doctrine ORM Documentation
-
-## How to Generate
-
-1. Run ./bin/install-dependencies.sh
-2. Run ./bin/generate-docs.sh
-
-It will generate the documentation into the build directory of the checkout.
+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

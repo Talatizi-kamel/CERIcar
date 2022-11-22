@@ -1,5 +1,1 @@
-# Doctrine Lexer
-
-Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers.
-
-This lexer is used in Doctrine Annotations and in Doctrine ORM (DQL).
+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

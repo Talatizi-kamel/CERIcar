@@ -1,10 +1,1 @@
-<?php
-
-namespace Doctrine\Tests;
-
-/**
- * Base testcase class for all Doctrine testcases.
- */
-abstract class DoctrineTestCase extends \PHPUnit_Framework_TestCase
-{
-}
+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

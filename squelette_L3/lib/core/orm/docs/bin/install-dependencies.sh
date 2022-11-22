@@ -1,2 +1,1 @@
-#!/bin/bash
-sudo apt-get update && sudo apt-get install -y python2.7 python-sphinx python-pygments
+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

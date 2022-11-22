@@ -1,7 +1,1 @@
-**argument_name:**
-
-* Name: argument_name
-* Is required: no
-* Is array: no
-* Description: argument description
-* Default: `'default_value'`
+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
